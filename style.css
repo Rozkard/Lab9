@@ -1,0 +1,155 @@
+body{
+	font-size: 18px;
+}
+#mainBlock{
+	width: 40em;
+	height: 25em;
+	margin-left: 20%;
+	border: 0.04em solid black;
+	background-color: #e8e1e1;
+	border-radius: 3%;
+	margin-top: 10%;
+}
+#Player{
+	height: 100%;
+	width: 30%;
+	display: inline-block;
+	border: 0.04em;
+	margin-left: 5%;
+}
+#Button{
+
+	height: 30%;
+	width: 30%;
+	display: inline-block;
+	border: 0.04em;
+	text-align: center;
+	font-size: 2em;
+}
+#ButtonB{
+	display: inline-block;
+	background-color: green;
+	border: 0.04em;
+	width: 100%;
+	font-size: 1.2em;
+	height: 60%;
+	border-radius: 4%;
+
+}
+#Bot{
+	width: 30%;
+	height: 100%;
+	display: inline-block;
+	border: 0.04em;
+}
+.name{
+	text-align: center;
+	margin-top: 5%;
+	width: 100%;
+	height: 20%;
+	font-size: 2em;
+}
+.score{
+	
+	width: 100%;
+	background-color: blue;
+	height: 15%;
+	text-align: center;
+	border-radius: 1em;
+	font-size: 2em;
+
+}
+.currentNumber{
+
+	margin-top: 5%;
+	width: 75%;
+	margin-left: 10%;
+	border: 0.05em solid black;
+	height: 50%;
+	text-align: center;
+}
+.currentNumber p{
+	margin-top: 25%;
+}
+
+.name p{
+	margin-top: 5%;
+	margin-left: 5%;
+}
+.playerIMG{
+	width: 100%;
+	height: 100%;
+}
+@media (max-width:3000px){
+	
+		body{
+		font-size: 30px;
+	}
+
+}
+@media (max-width:2048px){
+	
+		body{
+		font-size: 21px;
+	}
+
+}
+@media (max-width:1526px){
+	
+		body{
+		font-size: 19px;
+	}
+
+}
+@media (max-width:1440px){
+	
+		body{
+		font-size: 16px;
+	}
+
+}
+@media (max-width:1200px){
+	
+		body{
+		font-size: 13px;
+	}
+
+}
+
+@media (max-width:992px){
+	
+		body{
+		font-size: 11px;
+	}
+}
+@media (max-width:767px){
+	
+		body{
+		font-size: 9px;
+	}
+}
+@media (max-width:650px){
+	
+		body{
+		font-size: 7px;
+	}
+}
+@media (max-width:500px){
+	
+		body{
+		font-size: 5px;
+	}
+}
+@media (max-width:430px){
+	
+		body{
+		font-size: 4px;
+	}
+}
+@media (max-width:300px){
+	
+		body{
+		font-size: 3px;
+	}
+}
+
